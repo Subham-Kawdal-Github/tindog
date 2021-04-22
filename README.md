@@ -1,2 +1,1 @@
-# tindog
-find love ones for your dogs😁
+TinDog Starting Files
